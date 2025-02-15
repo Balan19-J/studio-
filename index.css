@@ -1,0 +1,59 @@
+*{
+    padding:0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.ov{
+    height: 100vh;
+    position: relative;
+    background-color:white;
+    background-image: url(https://img.freepik.com/free-photo/empty-stage-with-lighting-equipment-stage-spotlight-shines-stage-3d-rendering_39972-802.jpg?w=900);
+    
+}
+.overall{
+    background-color: aqua;
+    height: 400px;
+    width: 50%;
+    margin-top: 140px;
+    position: absolute;
+    right: 40px;
+}
+img{
+    height: 100%;
+    width: 100%;
+   
+}
+.left{
+    height: 350px;
+    width: 40%;
+    font-size: 40px;
+    margin-top: 165px;
+    margin-left: 60px;
+    background-image: url(https://img.freepik.com/premium-photo/camera-road-with-sunset-background_865967-28507.jpg);
+   
+   
+}
+span{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+p{
+    margin-top: 40px;
+}
+.idiv{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 60px;
+    right: 0px;
+}
+.idiv2{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 60px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
